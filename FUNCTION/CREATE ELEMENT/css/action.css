@@ -1,0 +1,53 @@
+.bx1{
+    height: 650px;
+    width: 100px;
+}
+.bx2{
+    height: 650px;
+    width: 0px;
+}
+.b1{
+    height: 35px;
+    width: 110px;
+    margin: 5% 0% 0% 39%;
+    background-color: rgb(49, 49, 255);
+    border: none;
+    color: aliceblue;
+
+}
+.b2{
+    height: 35px;
+    width: 110px;
+    margin: 5% 0% 0% 39%;
+    background-color: rgb(49, 49, 255);
+    border: none;
+    color: aliceblue;
+
+
+}
+.t4{
+    margin: 5% 0% 0% 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.t3{
+    margin: 5% 0% 0% 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.t2{
+    margin: 5% 0% 0% 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.t1{
+    margin: 5% 0% 0% 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+.t5{
+    margin: 20% 0% 0% 35%;
+    width: 300px;
+    height: 300px;
+}
+.t6{
+    margin: 10% 0% 0% 35%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
